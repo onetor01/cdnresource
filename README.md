@@ -15,5 +15,7 @@ https://cdn.jsdelivr.net/gh/onetor01/cdnresource@master/ico/notion/blog/
 
 https://cdn.jsdelivr.net/gh/onetor01/cdnresource@master/images/notion/blog/
 
+https://cdn.jsdelivr.net/gh/onetor01/cdnresource@master/images/notion/aigc/
+
 
 ```
